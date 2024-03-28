@@ -1,2 +1,2 @@
 # Demo
-Apresentação do github
+Apresentação do Github feita pela Oficina do Bolo
